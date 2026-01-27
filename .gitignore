@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+.gigaide/
+*.iml
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
